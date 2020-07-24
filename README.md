@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Tincho Valentini - @tinchoValentini
+Hi! 😄 I'm a software developer. 
+
 <!--
 **TinchoValentini/TinchoValentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
