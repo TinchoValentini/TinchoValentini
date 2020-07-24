@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 Tincho Valentini - @tinchoValentini
 Hi! 😄 I'm a software developer. 
